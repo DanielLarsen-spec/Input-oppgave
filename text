@@ -1,0 +1,7 @@
+Oppave 1:
+Du skal kunne skrive inn tall som legges i en liste, og dermed vise frem svaret. 
+Input felt med this.value
+bruke .push inn i et array
+Ha en knapp som kjører en summer-funksjon
+Loope igjennom arrayet og legge til tallene i en variabel
+Ha en funksjon som returnerer verdien til variablen og legge funksjonen i en div i viewet.
